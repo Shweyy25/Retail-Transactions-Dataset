@@ -1,4 +1,6 @@
 Dataset Information:
+
+
 ● Shape: (1067371, 8)
 ● Column:
 1. InvoiceNo - Invoice number. Nominal. A 6-digit integral number uniquely assigned to
