@@ -1,5 +1,5 @@
 ### This repository contains a comprehensive dataset of retail transactions, capturing various aspects of sales, including product details, customer information, and sales metrics. 
-- **The dataset consists of over one million rows and includes detailed information on each transaction.**
+#### The dataset consists of over one million rows and includes detailed information on each transaction.
 
 - Dataset Information
 - Shape: (1,067,371 rows, 8 columns)
